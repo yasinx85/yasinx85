@@ -230,8 +230,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
+An advance Administration bot based on yagop/telegram-bot sudo_users={@Sahdow_fight_dark_Fektory},--Sudousers
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
